@@ -43,7 +43,7 @@ const profiles = [
     reviews: 68,
     description:
       'Especializado en electricidad y automatización. Enseño a optimizar la generación, almacenamiento y distribución de energía de forma eficiente.',
-    images: ['d1.png', '', '']
+    images: ['d1.png', 'd2.png', 'd3.png']
   }
 ]
 
