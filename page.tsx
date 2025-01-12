@@ -53,7 +53,7 @@ export default function Home() {
                   </h2>
                   <div className='aspect-video w-full'>
                     <iframe
-                      src='https://player.twitch.tv/?channel=m2cg&parent=localhost'
+                      src='https://player.twitch.tv/?channel=m2cg&parent=piñaton.com'
                       frameBorder='0'
                       allowFullScreen
                       scrolling='no'
@@ -84,7 +84,7 @@ export default function Home() {
                   </h2>
                   <div className='aspect-video w-full'>
                     <iframe
-                      src='https://player.twitch.tv/?channel=aludovici&parent=localhost'
+                      src='https://player.twitch.tv/?channel=aludovici&parent=piñaton.com'
                       frameBorder='0'
                       allowFullScreen
                       scrolling='no'
@@ -146,7 +146,7 @@ export default function Home() {
                   </h2>
                   <div className='aspect-video w-full'>
                     <iframe
-                      src='https://player.twitch.tv/?channel=deowasd&parent=localhost'
+                      src='https://player.twitch.tv/?channel=deowasd&parent=piñaton.com'
                       frameBorder='0'
                       allowFullScreen
                       scrolling='no'
