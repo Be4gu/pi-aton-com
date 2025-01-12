@@ -160,7 +160,7 @@ export default function Home() {
                       ¡Únete a la revolución! 🎮 Utiliza el código especial
                     </p>
                     <p className='text-lg text-purple-600 dark:text-purple-400 text-center font-bold mt-2'>
-                      "patoDeo"
+                      "deoPato"
                     </p>
                     <p className='text-sm text-gray-700 text-center mt-2'>
                       y consigue un fantástico{' '}
