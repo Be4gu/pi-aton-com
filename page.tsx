@@ -111,11 +111,11 @@ export default function Home() {
                 </div>
                 <div className='space-y-4'>
                   <h2 className='text-2xl font-bold text-purple-700 flex items-center justify-center'>
-                    <Twitch className='mr-2' /> agustabell212
+                    <Twitch className='mr-2' /> Agustabell212
                   </h2>
                   <div className='aspect-video w-full'>
                     <iframe
-                      src='https://player.twitch.tv/?channel=agustabell212&parent=localhost'
+                      src='https://player.twitch.tv/?channel=agustabell212&parent=piñaton.com'
                       frameBorder='0'
                       allowFullScreen
                       scrolling='no'
