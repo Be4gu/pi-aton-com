@@ -33,6 +33,17 @@ const profiles = [
     description:
       'Especializado en farmeo eficiente y gestión de recursos. Enseño las mejores rutas y técnicas de recolección.',
     images: ['/a1.png', '/a2.png', '/a3.png']
+  },
+  {
+    name: 'DEOWASD',
+    reliability: 0.95,
+    price: '50€',
+    completedOrders: 104,
+    rating: 5,
+    reviews: 68,
+    description:
+      'Especializado en electricidad y automatización. Enseño a optimizar la generación, almacenamiento y distribución de energía de forma eficiente.',
+    images: ['d1.png', '', '']
   }
 ]
 
