@@ -140,6 +140,29 @@ export default function Home() {
                     </p>
                   </div>
                 </div>
+                <div className='space-y-4'>
+                  <h2 className='text-2xl font-bold text-purple-700 flex items-center justify-center'>
+                    <Twitch className='mr-2' /> v2unstoppable
+                  </h2>
+                  <div className='aspect-video w-full'>
+                    <iframe
+                      src={`https://player.twitch.tv/?channel=v2unstoppable&parent=piñaton.com`}
+                      frameBorder='0'
+                      allowFullScreen
+                      scrolling='no'
+                      height='100%'
+                      width='100%'
+                      className='rounded-lg shadow-lg'
+                    ></iframe>
+                  </div>
+                  <div className='bg-white p-4 rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300'>
+                    <p className='text-sm text-gray-700 text-center font-semibold'>¡Atención Piñateros! 🎉 Usa el código mágico</p>
+                    <p className='text-lg text-purple-600 dark:text-purple-400 text-center font-bold mt-2'>"peluquinMojado"</p>
+                    <p className='text-sm text-gray-700 text-center mt-2'>
+                      y desbloquea un épico <span className='text-green-500 font-bold'>50% de descuento</span> en tu primera compra
+                    </p>
+                  </div>
+                </div>
               </div>
             </TabsContent>
             <TabsContent value='store'>

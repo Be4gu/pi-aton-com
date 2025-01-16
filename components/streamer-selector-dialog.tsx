@@ -13,7 +13,8 @@ const predefinedStreamers = [
   { id: '2', name: 'M2Cg', channelId: 'M2Cg' },
   { id: '3', name: 'aLudovici', channelId: 'aLudovici' },
   { id: '4', name: 'DEOWASD', channelId: 'DEOWASD' },
-  { id: '5', name: 'NotoriusPig', channelId: 'notoriuspig_' }
+  { id: '5', name: 'NotoriusPig', channelId: 'notoriuspig_' },
+  { id: '6', name: 'v2unstoppable', channelId: 'v2unstoppable' }
 ]
 
 export function StreamerSelectorDialog() {
