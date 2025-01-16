@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import Script from 'next/script'
 import './globals.css'
+import { SessionProvider } from 'next-auth/react'
+import SessionWrapper from './SessionWrapper'
 
 export const metadata: Metadata = {
   title: 'Piñaton.com',
@@ -17,7 +19,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body>{children}</body>
+      <body>
+        <SessionWrapper>{children}</SessionWrapper>
+      </body>
+
       <Script src='https://scripts.simpleanalyticscdn.com/latest.js' />
     </html>
   )
