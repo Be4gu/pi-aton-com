@@ -28,7 +28,7 @@ const profiles = [
     completedOrders: 134,
     rating: 4,
     reviews: 98,
-    description: 'Especializado en farmeo eficiente y gestión de recursos. Enseño las mejores rutas y técnicas de recolección.',
+    description: 'Especialista en ser un decoy. También poseo un doctorado en llevar botas y hacer todo el ruido posible cuando el sigilo es clave. 😎👢',
     images: ['/a1.png', '/a2.png', '/a3.png']
   },
   {
@@ -49,7 +49,7 @@ const profiles = [
     rating: 4,
     reviews: 102,
     description:
-      'Con más de 10h horas de experiencia, estoy especializado en PvP y en raideo con porras de hueso. Ofrezco enseñar las mejores técnicas de farmeo, aunque admito que tengo dificultades a la hora de backearlo.',
+      'Con más de 10k horas de experiencia, estoy especializado en PvP y en raideo con porras de hueso. Ofrezco enseñar las mejores técnicas de farmeo, aunque admito que tengo dificultades a la hora de backearlo.',
     images: ['v1.png', 'v2.png', 'v3.png']
   }
 ]

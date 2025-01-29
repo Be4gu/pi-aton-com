@@ -110,10 +110,10 @@ export default function Home() {
                     ></iframe>
                   </div>
                   <div className='bg-white p-4 rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300'>
-                    <p className='text-sm text-gray-700 text-center font-semibold'>¡Únete a la revolución! 🎮 Utiliza el código especial</p>
-                    <p className='text-lg text-purple-600 dark:text-purple-400 text-center font-bold mt-2'>"agusCalvo"</p>
+                    <p className='text-sm text-gray-700 text-center font-semibold'>¡Únete a la revolución del ruido 🔊📢! 🎮 Utiliza el código especial</p>
+                    <p className='text-lg text-purple-600 dark:text-purple-400 text-center font-bold mt-2'>"bateroCabron"</p>
                     <p className='text-sm text-gray-700 text-center mt-2'>
-                      y consigue un fantástico <span className='text-green-500 font-bold'>75% de descuento</span> en tu primera compra
+                      y consigue un fantástico <span className='text-green-500 font-bold'>10% de descuento</span> en tu primera compra
                     </p>
                   </div>
                 </div>
