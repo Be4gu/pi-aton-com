@@ -18,7 +18,7 @@ export function TwitchLoginButton() {
       <AlertDialogTrigger asChild>
         <Button className='bg-purple-600 hover:bg-purple-700 text-white'>
           <Twitch className='w-4 h-4 mr-2' />
-          Login with Twitch
+          Login Twitch
         </Button>
       </AlertDialogTrigger>
       <AlertDialogContent className='bg-gradient-to-br from-pink-50 to-purple-100 dark:from-gray-900 dark:to-purple-900'>
